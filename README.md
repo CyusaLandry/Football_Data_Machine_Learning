@@ -48,30 +48,44 @@ in this stage the goal is to clean the dataset so that we can have a dataset wit
   ![Frequency Counts](screenshots/Screenshot (97))
   ![Frequency Counts](screenshots/Screenshot (98))
 #### Part 2: Visualization of Distributions & Relationships among variables
-##### 1. Distribution Visualizations:
-        - Histogram of Full-time goals scored (home and away)
-        ![](screenshots/Screenshot (99))
-        - Histogram of Betting odds
-        ![](screenshots/Screenshot (103))
-        - Bar plot for Count of matches per Division
-        ![](screenshots/Screenshot (104))
-        - Bar plot for Count of matches by FullTimeResult
-        ![](screenshots/Screenshot (105))
-        - Box plot for Goals scored by Division
-        ![](screenshots/Screenshot (106))
+#### Part 2: Visualization of Distributions & Relationships among variables
 
-#####  2. Relationship Visualizations:
-        - Scatter plot to explore relationship betweenHome goals vs Away goals per match
-        ![](screenshots/Screenshot (111))
-        - Scatter plot to explore relationship between Betting odds (e.g., HomeWinOdds) vs actual result (Raw and Implied probabilities )
-        ![](screenshots/Screenshot (113))
-###  Stage 3: Machine Learning 
-        1. Select Features and Target 
-        ![](screenshots/Screenshot (114))
-        2. Split the Training and Test Datasets then train the model
-        ![](screenshots/Screenshot (115))
-        3.Evaluate the model
-        ![](screenshots/Screenshot (116))
-        ![](screenshots/Screenshot (117))
+##### 1. Distribution Visualizations:
+- Histogram of Full-time goals scored (home and away)  
+  ![Histogram of full-time goals scored](screenshots/Screenshot(99))
+
+- Histogram of Betting odds  
+  ![Histogram of betting odds (Home/Draw/Away)](screenshots/Screenshot(103))
+
+- Bar plot for Count of matches per Division  
+  ![Bar chart showing match count per Division](screenshots/Screenshot(104))
+
+- Bar plot for Count of matches by FullTimeResult  
+  ![Bar chart of match outcomes (H/D/A)](screenshots/Screenshot(105))
+
+- Box plot for Goals scored by Division  
+  ![Box plot comparing goals scored across Divisions](screenshots/Screenshot(106))
+
+##### 2. Relationship Visualizations:
+- Scatter plot to explore relationship between Home goals vs Away goals per match  
+  ![Scatter plot: Home goals vs Away goals](screenshots/Screenshot(111))
+
+- Scatter plot to explore relationship between Betting odds (e.g., HomeWinOdds) vs actual result (Raw and Implied probabilities)  
+  ![Scatter plot of betting odds vs match result/probabilities](screenshots/Screenshot(113))
+
+---
+
+### Stage 3: Machine Learning
+
+1. Select Features and Target  
+   ![Feature selection and target variable definition](screenshots/Screenshot(114))
+
+2. Split the Training and Test Datasets then train the model  
+   ![Train-test split and model training](screenshots/Screenshot(115))
+
+3. Evaluate the model  
+   ![Model evaluation metrics (e.g., accuracy, confusion matrix)](screenshots/Screenshot%20(116))  
+   ![Further model evaluation or ROC curve](screenshots/Screenshot(117))
+
 ### Stage 4: PowerBi Dashboard Creation
 
