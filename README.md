@@ -13,20 +13,20 @@ Id: 25539
 ###  Stage 1: Data Cleaning
 in this stage the goal is to clean the dataset so that we can have a dataset with meaningful information 
 #### Original DataSet Information
-![Df.info() Results](screenshots/Screenshot (86).png)
-![Df.head() Results](screenshots/Screenshot (85).png)
-![Df.describe() Results](screenshots/Screenshot (87).png)
+![Df.info() Results](screenshots/Screenshot%20((86).png)
+![Df.head() Results](screenshots/Screenshot%20((85).png)
+![Df.describe() Results](screenshots/Screenshot%20((87).png)
 #### Writing a list of column names to keep and renaming those columns to meaningful names
-![New Column Names](screenshots/Screenshot (88).png)
-![New Column Names](screenshots/Screenshot (89).png)
+![New Column Names](screenshots/Screenshot%20((88).png)
+![New Column Names](screenshots/Screenshot%20((89).png)
 #### Renaming Division values to meaningful names 
-![New Division Names](screenshots/Screenshot (92).png)
+![New Division Names](screenshots/Screenshot%20((92).png)
 #### Extracting Time Analysis Data
-![Time Analysis](screenshots/Screenshot (93).png)
+![Time Analysis](screenshots/Screenshot%20((93).png)
 #### Feature Engineering Season Column
-![Season column engineering](screenshots/Screenshot (94).png)
+![Season column engineering](screenshots/Screenshot%20((94).png)
 #### Normalizing Probabilities to exclude bookmaker margin
-![Normailized Probabilities](screenshots/Screenshot (95).png)
+![Normailized Probabilities](screenshots/Screenshot%20((95).png)
 
 ### Stage 2: Exploratory Data Analysis
 #### Part 1: Descriptive statistics
@@ -40,57 +40,57 @@ in this stage the goal is to clean the dataset so that we can have a dataset wit
            - Bet365_HomeWinOdds 
            - Bet365_DrawOdds 
            - Bet365_AwayWinOdds
-  ![Numeric Statistics](screenshots/Screenshot (96).png)
+  ![Numeric Statistics](screenshots/Screenshot%20((96).png)
  ##### 2. Frequency counts 
            - Matches per Division
            - Distribution of FullTimeResult
            -  Matches per season
            - Matches per weekday 
            -  Matches per month 
-  ![Frequency Counts](screenshots/Screenshot (97).png)
-  ![Frequency Counts](screenshots/Screenshot (98).png)
+  ![Frequency Counts](screenshots/Screenshot%20((97).png)
+  ![Frequency Counts](screenshots/Screenshot%20((98).png)
 #### Part 2: Visualization of Distributions & Relationships among variables
 
 ##### 1. Distribution Visualizations:
 - Histogram of Full-time goals scored (home and away)  
-  ![Histogram of full-time goals scored](screenshots/Screenshot (99).png)
+  ![Histogram of full-time goals scored](screenshots/Screenshot%20((99).png)
 
 - Histogram of Betting odds  
-  ![Histogram of betting odds (Home/Draw/Away)](screenshots/Screenshot (103).png)
+  ![Histogram of betting odds (Home/Draw/Away)](screenshots/Screenshot%20((103).png)
 
 - Bar plot for Count of matches per Division  
-  ![Bar chart showing match count per Division](screenshots/Screenshot (104).png)
+  ![Bar chart showing match count per Division](screenshots/Screenshot%20((104).png)
 
 - Bar plot for Count of matches by FullTimeResult  
-  ![Bar chart of match outcomes (H/D/A)](screenshots/Screenshot (105).png)
+  ![Bar chart of match outcomes (H/D/A)](screenshots/Screenshot%20((105).png)
 
 - Box plot for Goals scored by Division  
-  ![Box plot comparing goals scored across Divisions](screenshots/Screenshot (106).png)
+  ![Box plot comparing goals scored across Divisions](screenshots/Screenshot%20((106).png)
 
 ##### 2. Relationship Visualizations:
 - Scatter plot to explore relationship between Home goals vs Away goals per match  
-  ![Scatter plot: Home goals vs Away goals](screenshots/Screenshot (111).png)
+  ![Scatter plot: Home goals vs Away goals](screenshots/Screenshot%20((111).png)
 
 - Scatter plot to explore relationship between Betting odds (e.g., HomeWinOdds) vs actual result (Raw and Implied probabilities)  
-  ![Scatter plot of betting odds vs match result/probabilities](screenshots/Screenshot (113).png)
+  ![Scatter plot of betting odds vs match result/probabilities](screenshots/Screenshot%20((113).png)
 
 ---
 
 ### Stage 3: Machine Learning
 
 1. Select Features and Target  
-   ![Feature selection and target variable definition](screenshots/Screenshot (114).png)
+   ![Feature selection and target variable definition](screenshots/Screenshot%20((114).png)
 
 2. Split the Training and Test Datasets then train the model  
-   ![Train-test split and model training](screenshots/Screenshot (115).png)
+   ![Train-test split and model training](screenshots/Screenshot%20((115).png)
 
 3. Evaluate the model  
-   ![Model evaluation metrics (e.g., accuracy, confusion matrix)](screenshots/Screenshot (116).png)  
-   ![Further model evaluation or ROC curve](screenshots/Screenshot (117).png)
+   ![Model evaluation metrics (e.g., accuracy, confusion matrix)](screenshots/Screenshot%20((116).png)  
+   ![Further model evaluation or ROC curve](screenshots/Screenshot%20((117).png)
 
 ### Stage 4: PowerBi Dashboard Creation
-![Power Bi Dashboard](screenshots/Screenshot (118).png)
-![Power Bi Dashboard](screenshots/Screenshot (119).png)
-![Power Bi Dashboard](screenshots/Screenshot (120).png)
-![Power Bi Dashboard](screenshots/Screenshot (121).png)
-![Power Bi Dashboard](screenshots/Screenshot (122).png)
+![Power Bi Dashboard](screenshots/Screenshot%20((118).png)
+![Power Bi Dashboard](screenshots/Screenshot%20((119).png)
+![Power Bi Dashboard](screenshots/Screenshot%20((120).png)
+![Power Bi Dashboard](screenshots/Screenshot%20((121).png)
+![Power Bi Dashboard](screenshots/Screenshot%20((122).png)
