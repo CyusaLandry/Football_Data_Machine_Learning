@@ -13,20 +13,20 @@ Id: 25539
 ###  Stage 1: Data Cleaning
 in this stage the goal is to clean the dataset so that we can have a dataset with meaningful information 
 #### Original DataSet Information
-![Df.info() Results](screenshots/Screenshot_((86).png)
-![Df.head() Results](screenshots/Screenshot_((85).png)
-![Df.describe() Results](screenshots/Screenshot_((87).png)
+![Df.info() Results](screenshots/86.png)
+![Df.head() Results](screenshots/85.png)
+![Df.describe() Results](screenshots/87.png)
 #### Writing a list of column names to keep and renaming those columns to meaningful names
-![New Column Names](screenshots/Screenshot_((88).png)
-![New Column Names](screenshots/Screenshot_((89).png)
+![New Column Names](screenshots/88.png)
+![New Column Names](screenshots/89.png)
 #### Renaming Division values to meaningful names 
-![New Division Names](screenshots/Screenshot_((92).png)
+![New Division Names](screenshots/92.png)
 #### Extracting Time Analysis Data
-![Time Analysis](screenshots/Screenshot_((93).png)
+![Time Analysis](screenshots/93.png)
 #### Feature Engineering Season Column
-![Season column engineering](screenshots/Screenshot_((94).png)
+![Season column engineering](screenshots/94.png)
 #### Normalizing Probabilities to exclude bookmaker margin
-![Normailized Probabilities](screenshots/Screenshot_((95).png)
+![Normailized Probabilities](screenshots/95.png)
 
 ### Stage 2: Exploratory Data Analysis
 #### Part 1: Descriptive statistics
