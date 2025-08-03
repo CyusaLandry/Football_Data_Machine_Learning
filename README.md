@@ -89,4 +89,8 @@ in this stage the goal is to clean the dataset so that we can have a dataset wit
    ![Further model evaluation or ROC curve](screenshots/Screenshot(117))
 
 ### Stage 4: PowerBi Dashboard Creation
-
+![Power Bi Dashboard](screenshots/Screenshot(118))
+![Power Bi Dashboard](screenshots/Screenshot(119))
+![Power Bi Dashboard](screenshots/Screenshot(120))
+![Power Bi Dashboard](screenshots/Screenshot(121))
+![Power Bi Dashboard](screenshots/Screenshot(122))
