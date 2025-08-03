@@ -48,7 +48,6 @@ in this stage the goal is to clean the dataset so that we can have a dataset wit
   ![Frequency Counts](screenshots/Screenshot (97))
   ![Frequency Counts](screenshots/Screenshot (98))
 #### Part 2: Visualization of Distributions & Relationships among variables
-#### Part 2: Visualization of Distributions & Relationships among variables
 
 ##### 1. Distribution Visualizations:
 - Histogram of Full-time goals scored (home and away)  
