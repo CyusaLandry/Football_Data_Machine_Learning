@@ -1,4 +1,6 @@
-#Football Data Machine Learning
+# Football Data Machine Learning
+Names: Cyusa Niyibaho Landry
+Id: 25539
 ## Project Objective: Can We Model The Likelihood of a Match ending in a Win,Loss or Draw By Using Team Stats and Bookmaker Odds
 ### DataSet Title: English Football Data
 ### DataSet Link: https://example.com](https://www.football-data.co.uk/englandm.php
